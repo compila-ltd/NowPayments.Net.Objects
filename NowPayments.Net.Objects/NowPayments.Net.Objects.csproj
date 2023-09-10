@@ -23,7 +23,7 @@
 		<PackageProjectUrl>https://github.com/compila-ltd/NowPayments.Net.Objects</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/compila-ltd/NowPayments.Net.Objects</RepositoryUrl>
 		<PackageId>NowPayments.Net.Objects</PackageId>
-		<Version>1.0.1</Version>
+		<Version>1.0.2</Version>
 		<Authors>Eyonys Gonzalez Marcaida</Authors>
 		<Company>Compila</Company>
 		<PackageDescription>Objects library related to NowPayments Api.</PackageDescription>
@@ -46,6 +46,6 @@
 	</ItemGroup>
 	<ItemGroup>
 		<!-- Add a README.md next to the csproj -->
-		<None Include="README.md" Pack="true" PackagePath="..\"/>
+		<None Include="README.md" Pack="true" PackagePath="..\" />
 	</ItemGroup>
 </Project>

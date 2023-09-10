@@ -8,4 +8,17 @@ namespace NowPayments.Net.Objects
 		[JsonPropertyName("currencies")]
 		public List<string>? Currencies { get; set; }
 	}
+
+	public class FullCurrenciesList
+
+	{
+		[JsonPropertyName("currencies")]
+		public List<Currency>? Currencies { get; set; }
+	}
+
+	public class CheckedCurrenciesList
+	{
+		[JsonPropertyName("selectedCurrencies")]
+		public List<string>? Currencies { get; set; }
+	}
 }
