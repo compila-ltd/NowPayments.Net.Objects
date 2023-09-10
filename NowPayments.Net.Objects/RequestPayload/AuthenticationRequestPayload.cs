@@ -2,7 +2,7 @@
 
 namespace NowPayments.Net.Objects.RequestPayload
 {
-	internal class AuthenticationRequestPayload
+	public class AuthenticationRequestPayload
 	{
 		[JsonPropertyName("email")]
 		public string Email { get; set; } = string.Empty;

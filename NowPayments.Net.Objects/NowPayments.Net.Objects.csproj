@@ -23,7 +23,7 @@
 		<PackageProjectUrl>https://github.com/compila-ltd/NowPayments.Net.Objects</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/compila-ltd/NowPayments.Net.Objects</RepositoryUrl>
 		<PackageId>NowPayments.Net.Objects</PackageId>
-		<Version>1.0.2</Version>
+		<Version>1.0.3</Version>
 		<Authors>Eyonys Gonzalez Marcaida</Authors>
 		<Company>Compila</Company>
 		<PackageDescription>Objects library related to NowPayments Api.</PackageDescription>
